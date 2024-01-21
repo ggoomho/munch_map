@@ -1,0 +1,26 @@
+#question {
+    display: none;
+}
+
+.questionBox {
+    background-color: whitesmoke;
+    text-align: center;
+    border-radius: 20px;
+    font-size: 24px;
+    width: 80%;
+}
+
+.selectionList {
+    background-color: whitesmoke;
+    border-radius: 20px;
+    display: block;
+    width: 100%;
+    border: 0px;
+    font-size: 20px;
+    width: 80%;
+}
+
+.selectionList:hover, .selectionList:focus {
+    background-color: palevioletred;
+    color: whitesmoke;
+}
